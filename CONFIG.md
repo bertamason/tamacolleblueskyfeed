@@ -3,19 +3,20 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+tamacolle-keyword
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+魂これ
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+にじたまさん開発の同人ゲーム「やまとまほろば 地魂これくしょん（通称：魂これ）」のファンが運用するカスタムフィードです
+This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kunitama Collection (a.k.a. Tama Colle)" developed by Nijitama (under test operation)
 
 # searchTerms
 
@@ -25,12 +26,12 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- 魂これ
+- 魂コレ
+- 地魂これくしょん
+- 地魂コレクション
+- Tama Colle
+- Tama-Colle
 
 # denyList
 
