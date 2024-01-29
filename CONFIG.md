@@ -15,6 +15,7 @@ tamacolle-kw
 
 > This is the description of the feed.
 
+（調整中）
 にじたまさん開発の同人ゲーム「やまとまほろば 地魂これくしょん（通称：魂これ）」のファンが運用するカスタムフィードです。
 This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kunitama Collection (a.k.a. Tama Colle)" developed by Nijitama.
 
@@ -28,9 +29,9 @@ This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kuni
 
 - "魂これ"
 - "#魂これ"
+- " #魂これ "
 - "地魂これくしょん"
 - "Tama Colle"
-- "Tama-Colle"
 
 # denyList
 
