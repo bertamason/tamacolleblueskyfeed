@@ -9,7 +9,7 @@ tamacolle-keyword
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-tama
+HYA'S Test Feed
 
 # description
 
