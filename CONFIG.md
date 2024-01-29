@@ -26,12 +26,12 @@ This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kuni
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- 魂これ
-- 魂コレ
-- 地魂これくしょん
-- 地魂コレクション
-- Tama Colle
-- Tama-Colle
+- "魂これ"
+- "魂コレ"
+- "地魂これくしょん"
+- "地魂コレクション"
+- "Tama Colle"
+- "Tama-Colle"
 
 # denyList
 
