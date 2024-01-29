@@ -15,8 +15,9 @@ tamacolle-keyword
 
 > This is the description of the feed.
 
+調整中 / under test operation
 にじたまさん開発の同人ゲーム「やまとまほろば 地魂これくしょん（通称：魂これ）」のファンが運用するカスタムフィードです
-This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kunitama Collection (a.k.a. Tama Colle)" developed by Nijitama (under test operation)
+This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kunitama Collection (a.k.a. Tama Colle)" developed by Nijitama
 
 # searchTerms
 
