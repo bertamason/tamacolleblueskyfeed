@@ -3,20 +3,20 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-tamacolle-keyword
+tamacolle-kw
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-HYA'S Test Feed
+魂これ
 
 # description
 
 > This is the description of the feed.
 
-調整中 / under test operation
-
+にじたまさん開発の同人ゲーム「やまとまほろば 地魂これくしょん（通称：魂これ）」のファンが運用するカスタムフィードです。
+This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kunitama Collection (a.k.a. Tama Colle)" developed by Nijitama.
 
 # searchTerms
 
@@ -27,7 +27,11 @@ HYA'S Test Feed
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - "魂これ"
+- "魂コレ"
 - "地魂これくしょん"
+- "地魂コレクション"
+- "Tama Colle"
+- "Tama-Colle"
 
 # denyList
 
@@ -48,4 +52,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![](tamacolle-logo.png)
