@@ -27,9 +27,8 @@ This is a custom feed operated by a fan of the doujin game "Yamato Mahoroba Kuni
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - "魂これ"
-- "魂コレ"
+- "#魂これ"
 - "地魂これくしょん"
-- "地魂コレクション"
 - "Tama Colle"
 - "Tama-Colle"
 
