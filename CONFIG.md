@@ -9,12 +9,12 @@ tamacolle-keywo
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-魂魂魂魂魂魂魂魂魂
+試験運用v2
 
 # description
 
 > This is the description of the feed.
-
+フォロー非推奨
 
 # searchTerms
 
