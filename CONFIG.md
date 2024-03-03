@@ -9,7 +9,7 @@ tamacolle-keywo
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-TC-CF v0 (TEM)
+魂魂魂魂魂魂魂魂魂
 
 # description
 
